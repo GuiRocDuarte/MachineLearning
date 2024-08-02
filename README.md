@@ -16,7 +16,7 @@ This repository contains Jupyter notebooks that cover a comprehensive range of t
 4. **04_training_linear_models.ipynb**
    - Methods for training linear regression and logistic regression models.
 
-### In Progress -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+### In Progress
 
 5. **05_support_vector_machines.ipynb**
    - Implementation and theory behind Support Vector Machines (SVMs).
